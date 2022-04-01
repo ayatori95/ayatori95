@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá !! Eu sou a Lorena Cristina 👋
 
-<!--
-**ayatori95/ayatori95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com front-end e na área de tests
+- 🌱 Estudando JavaScrip e PHP para me aprofundar no back-end
+- 📫 Contate-me no email: lorenacristinaac@gmai.com
+- 😄 Pronouns: ela/dela
+- ⚡ Fun fact: Fã de HP e TheBoys
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/ayatori95">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayatori95&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayatori95&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Lores-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lores-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lores-PHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Lores-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lores-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lores-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lores-VueJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+ </div>
+ ![Snake animation](https://github.com/ayatori95/ayatori95/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
