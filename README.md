@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end e na área de tests
 - 🌱 Estudando JavaScrip e PHP para me aprofundar no back-end
-- 📫 Contate-me no email: lorenacristinaac@gmai.com
+- 📫 Contate-me no email: lorenacristinaac@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Fã de HP e TheBoys
 
