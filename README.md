@@ -1,6 +1,6 @@
 ### Olá !! Eu sou a Lorena Cristina 👋
 
-- 🔭 Hoje trabalho com front-end e na área de tests
+- 🔭 Hoje trabalho com front-end e na área de QA
 - 🌱 Estudando JavaScrip e PHP para me aprofundar no back-end
 - 📫 Contate-me no email: lorenacristinaac@gmail.com
 - 😄 Pronouns: ela/dela
