@@ -1,7 +1,7 @@
 ### Olá !! Eu sou a Lorena Cristina 👋
 
-- 🔭 Hoje trabalho com front-end e na área de QA
-- 🌱 Estudando JavaScrip e PHP para me aprofundar no back-end
+- 🔭 Hoje trabalho com front-end e full-stack
+- 🌱 Estudando Cloud e Kubernetes para me aprofundar nos conhecimentos da nuvem, além do sistema N8N para automatização
 - 📫 Contate-me no email: lorenacristinaac@gmail.com
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Fã de HP e TheBoys
